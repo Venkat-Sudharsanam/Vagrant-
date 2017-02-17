@@ -21,6 +21,7 @@
   vagrant init <box-name>
 ```
   ![alt text](Images/3.png "Vagrant Init")
+  
   ![alt text](Images/4.png "Vagrant File")
 
 5) Now if check the directory you are in there will be a file created in the name of Vagrantfile. We need to edit this file.
